@@ -1,2 +1,2 @@
 # pyroom
-Fork of Pyroom -- change defaults &amp; themes
+Fork of Pyroom -- change defaults and themes
