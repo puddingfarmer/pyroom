@@ -1,2 +1,3 @@
 # pyroom
-Fork of Pyroom -- change defaults and themes
+Pyroom with a preference setting for default directory.
+Added solarized dark as default theme
